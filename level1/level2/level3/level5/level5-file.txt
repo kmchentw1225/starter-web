@@ -1,0 +1,12 @@
+Hipsum has a JSON API that anyone is welcome to use.
+
+Please note that we do not offer technical support for this API. Additionally, if we find that a project or user is abusing the API endpoint, we reserve the right to disallow traffic.
+
+The current parameters for our API are as follows:
+
+Required
+type — hipster-centric for hipster speak only or hipster-latin for hipster speak mixed with Latin words from Lorem ipsum.
+Optional
+paras — Number of paragraphs. Defaults to 5 paragraphs.
+sentences — Number of sentences. This parameter overrides paras, so don’t use both at once.
+start-with-lorem Pass 1 to start the first paragraph with the totally fucking ridiculous phrase “I’m baby”.
