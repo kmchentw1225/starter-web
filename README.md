@@ -11,4 +11,6 @@
 
 ## Deploymengt
 
+   This is a simple web project, deployment can be on any web server or local.
+   
 ## How To Contribute
